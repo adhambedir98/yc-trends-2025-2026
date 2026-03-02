@@ -1,0 +1,143 @@
+{
+  "meta": {
+    "source": "YC Company Directory",
+    "batches": [
+      "WINTER 2025",
+      "SPRING 2025",
+      "SUMMER 2025",
+      "FALL 2025",
+      "WINTER 2026"
+    ],
+    "total": 815,
+    "extracted": "March 2026"
+  },
+  "batchCounts": {
+    "WINTER 2025": 167,
+    "SPRING 2025": 145,
+    "SUMMER 2025": 167,
+    "FALL 2025": 148,
+    "WINTER 2026": 183
+  },
+  "themes": [
+    {
+      "theme": "AI Agents & Automation",
+      "count": 137,
+      "trend": "stable dominant",
+      "pctW25": 18,
+      "pctSp25": 17.2,
+      "pctSu25": 19.8,
+      "pctF25": 17.6,
+      "pctW26": 11.5
+    },
+    {
+      "theme": "Dev Infra & Cloud",
+      "count": 68,
+      "trend": "fastest rising",
+      "pctW25": 6.6,
+      "pctSp25": 6.9,
+      "pctSu25": 7.8,
+      "pctF25": 8.1,
+      "pctW26": 12
+    },
+    {
+      "theme": "Robotics & Physical AI",
+      "count": 65,
+      "trend": "rock solid every batch",
+      "pctW25": 7.2,
+      "pctSp25": 9.7,
+      "pctSu25": 6.6,
+      "pctF25": 8.1,
+      "pctW26": 8.7
+    },
+    {
+      "theme": "Space Tech",
+      "count": 22,
+      "trend": "surging in W26",
+      "pctW25": 2.4,
+      "pctSp25": 2.1,
+      "pctSu25": 0.6,
+      "pctF25": 2.7,
+      "pctW26": 5.5
+    },
+    {
+      "theme": "Energy & Grid Tech",
+      "count": 14,
+      "trend": "dramatic comeback in W26 (was 0% in Su25)",
+      "pctW25": 1.8,
+      "pctSp25": 1.4,
+      "pctSu25": 0,
+      "pctF25": 0,
+      "pctW26": 3.8
+    },
+    {
+      "theme": "Legal Tech",
+      "count": 28,
+      "trend": "quietly growing",
+      "pctW25": 3.6,
+      "pctSp25": 3.4,
+      "pctSu25": 2.4,
+      "pctF25": 3.4,
+      "pctW26": 4.4
+    },
+    {
+      "theme": "Security & Cybersecurity",
+      "count": 23,
+      "trend": "growing steadily",
+      "pctW25": 1.2,
+      "pctSp25": 6.2,
+      "pctSu25": 1.8,
+      "pctF25": 2,
+      "pctW26": 3.3
+    },
+    {
+      "theme": "Healthtech & Medical AI",
+      "count": 48,
+      "trend": "steady",
+      "pctW25": 3.6,
+      "pctSp25": 3.4,
+      "pctSu25": 3.6,
+      "pctF25": 4.7,
+      "pctW26": 4.9
+    },
+    {
+      "theme": "Vertical AI for B2B Workflows",
+      "count": 84,
+      "trend": "stable",
+      "pctW25": null,
+      "pctSp25": null,
+      "pctSu25": null,
+      "pctF25": null,
+      "pctW26": null
+    },
+    {
+      "theme": "Fintech",
+      "count": 81,
+      "trend": "stable large category",
+      "pctW25": 10.8,
+      "pctSp25": 7.5,
+      "pctSu25": 7.2,
+      "pctF25": 8.1,
+      "pctW26": 9.3
+    },
+    {
+      "theme": "EdTech & Research Tools",
+      "count": 25,
+      "trend": "declining as % of batch",
+      "pctW25": 4.2,
+      "pctSp25": 4.1,
+      "pctSu25": 3,
+      "pctF25": 2,
+      "pctW26": 1.6
+    },
+    {
+      "theme": "Consumer App & Marketplace",
+      "count": 26,
+      "trend": "maturing",
+      "pctW25": 2.4,
+      "pctSp25": 2.8,
+      "pctSu25": 5.4,
+      "pctF25": 3.4,
+      "pctW26": 2.2
+    }
+  ]
+}
